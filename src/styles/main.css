@@ -96,7 +96,7 @@ body {
     min-height: 380px;
     width: 100%;
     text-align: center;
-    background-image: url("../public/images/heros/hero-image_2.jpg");
+    background-image: url('../public/images/heros/hero-image_2.jpg');
     background-position: center;
     background-color: green;
 }
