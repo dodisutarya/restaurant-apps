@@ -46,7 +46,7 @@ main.addEventListener('click', event => {
                 <p class="post-item__date">
                     Rating <a href="#" class="post-item__date__author">${resto.rating}</a>
                 </p>
-                <h1 class="post-item__title"><a href="#">${resto.name}</a></h1>
+                <h1 class="post-item__title"><a href="#" class="tombol">${resto.name}</a></h1>
                 <p class="post-item__description">${resto.description}</p>
             </div>
         </article>
