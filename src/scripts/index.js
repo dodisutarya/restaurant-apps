@@ -25,12 +25,6 @@ main.addEventListener('click', event => {
     drawer.classList.remove('open');
 });
 
-
-// fetch("../DATA.json")
-//     .then((data) => data.json())
-//     .then((restaurants) => getData(restaurants));
-
-
     let html = "";
     data.restaurants.forEach((resto) => {
         html += `
